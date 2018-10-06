@@ -10,7 +10,7 @@
     return document.querySelector('#grand-node div div div div')
   }
 
-  function increaseRankBy(3) {
+  function increaseRankBy(n) {
     const rankedLists = document
       .querySelectorAll('.ranked-list');
 

@@ -11,6 +11,7 @@
   }
 
   function increaseRankBy(n) {
+    var n = 3
     const rankedLists = document
       .querySelectorAll('.ranked-list');
 
